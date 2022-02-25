@@ -14,7 +14,7 @@ Creating the interrupts to work correctly with the timer is something I wish I w
 
 ### What tools and/or resources are you adding to your support network?
 
-Some new resource or tools that I wish to add to my support network is a website that includes IoT to link to each smart device and inlude features that can accomodate a client's intuitive experience.
+Some new resource or tools that I wish to add to my support network is a webpage or mobile application that includes IoT to link to each smart device and inlude features that can accomodate a client's intuitive experience.
 
 ### What skills from this project will be particularly transferable to other projects and/or course work?
 
